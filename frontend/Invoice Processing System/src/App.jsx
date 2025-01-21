@@ -1,9 +1,9 @@
-import InvoiceProcessingSystem from "./components/InvoiceProcessingSystem";
+import Home from "./pages/Home";
 
 export default function App() {
   return (
     <div>
-      <InvoiceProcessingSystem/>
+      <Home />
     </div>
-  )
+  );
 }
